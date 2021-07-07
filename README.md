@@ -16,7 +16,7 @@ Design a circuit, to control the arms of the welcome robot and interact with peo
 - wires
 - battery
 
-## Circuit Digrame 
+## Circuit Diagrame 
 ![Circuit Pic Wlecome Robot](https://user-images.githubusercontent.com/85633958/124772670-e8b6db00-df44-11eb-9b31-4dd3d86aa172.png)
 
 
