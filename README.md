@@ -20,7 +20,7 @@ Design a circuit, to control the arms of the welcome robot and interact with peo
 ![Circuit Pic Wlecome Robot](https://user-images.githubusercontent.com/85633958/124772670-e8b6db00-df44-11eb-9b31-4dd3d86aa172.png)
 
 
-## How it work
+## How it works
 - 1. When the person is more than a meter away from the robot, the screen does not work (or there may be a message on the screen as I did) and the servo is in normal mode (first position)
 - 2. After that, when the person approaches the robot (or the sensor in particular), with a distance of less than a meter, another message will appear on the screen and the arms will move in a programmed movement (second position).
 - 3. When the person approaches the robot with a distance of less than half a meter, another message will appear on the screen and the motors will move in a programmed movement at a certain angle (the third position), in addition to the Arduino will send a signal to the Bluetooth after three seconds.
